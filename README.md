@@ -1,4 +1,4 @@
-# r2docu | Building a proper radare2 begginer's documentation
+# r2docu | Building a proper r2 beginner's documentation
 
 The idea behind r2docu is to make radare2 as easily accessible as possible for beginners.
 
