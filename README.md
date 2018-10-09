@@ -4,7 +4,7 @@ The idea behind r2docu is to make radare2 as easily accessible as possible for b
 
 The final goal would be to deploy a (more) refined and final version into the (hopefully soon) update of radare2 website that is under development right now.
 
-Any idea, suggestion or comment to help improve r2docu is totally welcome.
+Any ideas, suggestions or comments to help improve r2docu as well as typos' correction and better use-of-english tips are totally welcome.
 
 ## More
 ### r2docu presentation talk
