@@ -125,7 +125,7 @@ Written 1 byte(s) (nop) = wx 90
 [0x00005850]> 
 ```
 
-`aa` -> **a**nalyse **a**ll
+`aa` -> **a**nalyze **a**ll
 ```
 [0x00005850]> aa
 [x] Analyze all flags starting with sym. and entry0 (aa)
