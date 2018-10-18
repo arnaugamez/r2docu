@@ -26,7 +26,7 @@ $ ./sys/install.sh # Run this to automatically pull and update
 ```
 There also exist precompiled binaries for OS X and Windows.
 Windows download: [here]
-OS x download: [here]
+OS X download: [here]
 
 You can also build it by yourself. Check [build instructions] for different platforms.
 
@@ -81,7 +81,7 @@ Commands in r2 follow simple mnemonic rules.
 $
 ```
 
-Now we will have to open the file with write acces. As we don't want to mess with system binary, let's make a copy before.
+Now we will have to open the file with write access. As we don't want to mess with system binary, let's make a copy before.
 
 ```
 $ cp /bin/ls /tmp/ls
@@ -125,7 +125,7 @@ Written 1 byte(s) (nop) = wx 90
 [0x00005850]> 
 ```
 
-`aa` -> **a**nalise **a**ll
+`aa` -> **a**nalyze **a**ll
 ```
 [0x00005850]> aa
 [x] Analyze all flags starting with sym. and entry0 (aa)
@@ -206,7 +206,7 @@ As we already ran `aa` to analyse all, we have flags for identified functions' o
 [...]
 [0x00005850]>
 ```
-As we can see, we disassembled the function seeking temporaly to it's starting offset but after the disassembly we are still placed are previous offset because of the `@` modifier.
+As we can see, we disassembled the function seeking temporarily to it's starting offset but after the disassembly we are still placed are previous offset because of the `@` modifier.
 
 
 ### Handy tricks
