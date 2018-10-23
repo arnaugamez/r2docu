@@ -11,11 +11,11 @@ In a nutshell, r2 is a free and open source reverse engineering framework built 
 ### What can radare2 do
 At a first glance, here you are a non-exhaustive list of things that r2 can be useful for:
 - Disassemble binaries of several [architectures] and [operating systems]
-- Analise code, data, references and structures.
-- Binary manipulation, code injection, patching, bindiffing.
-- Mount filesystems, detect partitions, carve for data.
-- Extract information and metrics that can be used for binary classification.
-- Kernel analysis and debugging.
+- Analyze code, data, references and structures
+- Binary manipulation, code injection, patching, bindiffing
+- Mount filesystems, detect partitions, carve for data
+- Extract information and metrics that can be used for binary classification
+- Kernel analysis and debugging
 
 ## Installation
 The recommended way to install radare2 is to get the last git version.
@@ -170,7 +170,7 @@ Written 1 byte(s) (nop) = wx 90
 (we have a subcommand of `pd` called `pdf` to **p**rint **d**isassembly of **f**unction that we are going to use just right now)
 
 - Use `@` for temporary seek.
-As we already ran `aa` to analyse all, we have flags for identified functions' offsets.
+As we already ran `aa` to analyze all, we have flags for identified functions' offsets.
 ```
 [0x00005850]> pdf @ main
             ;-- section..text:
@@ -206,7 +206,7 @@ As we already ran `aa` to analyse all, we have flags for identified functions' o
 [...]
 [0x00005850]>
 ```
-As we can see, we disassembled the function seeking temporarily to it's starting offset but after the disassembly we are still placed are previous offset because of the `@` modifier.
+As we can see, we disassembled the function seeking temporarily to its starting offset but after the disassembly we are still placed at the previous offset because of the `@` modifier.
 
 
 ### Handy tricks
