@@ -11,5 +11,5 @@ Any ideas, suggestions or comments to help improve r2docu as well as typos' corr
 You might want to check out the [slides](https://github.com/arnaugamez/r2con2018-Introducing_r2_for_humans) and [video recording](https://youtu.be/ARH1S8ygDnk) of the r2con2018 where I presented this idea.
 
 ### Contact
-- Twitter: [@arnaugamez](twitter.com/arnaugamez)
+- Twitter: [@arnaugamez](https://twitter.com/arnaugamez)
 - Mail: arnaugamez AT pm DOT me
