@@ -6,11 +6,11 @@ This documentation is aimed to be a quick and easy-to-follow first contact to ra
 It is not meant to replace the comprehensive guides and explanations from the r2book neither a full reference of every single feature, but a place where newcomers can feel and put in practice the r2 power from the very beginning.
 
 ### What is radare2
-In a nutshell, r2 is a free and open source reverse engineering framework built from scratch in C without any third-party dependency that runs on very major (and many others) [platforms] and has native support for a lot of [file formats]. It can be used as is or you can built your own tools on top of r2 using your favourite scripting language.
+In a nutshell, r2 is a free and open source reverse engineering framework built from scratch in C without any third-party dependency that runs on very major (and many other) [platforms](https://github.com/radare/radare2#operating-systems) and has native support for a lot of [file formats](https://github.com/radare/radare2#file-formats). It can be used as is or you can built your own tools on top of r2 using your favourite scripting language.
 
 ### What can radare2 do
 At a first glance, here you are a non-exhaustive list of things that r2 can be useful for:
-- Disassemble binaries of several [architectures] and [operating systems]
+- Disassemble binaries of several [architectures](https://github.com/radare/radare2#architectures)
 - Analyze code, data, references and structures
 - Binary manipulation, code injection, patching, bindiffing
 - Mount filesystems, detect partitions, carve for data
