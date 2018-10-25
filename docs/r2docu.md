@@ -25,8 +25,12 @@ $ cd radare2
 $ ./sys/install.sh # Run this to automatically pull and update
 ```
 There also exist precompiled binaries for OS X and Windows.
-Windows download: [here]
-OS X download: [here]
+
+- Windows download:
+    [32-bit](http://radare.mikelloc.com/get/2.7.0/radare2_installer-msvc_32-2.7.0.exe),
+    [64-bit](http://radare.mikelloc.com/get/2.7.0/radare2_installer-msvc_64-2.7.0.exe)
+
+- OS X download: [here](http://radare.mikelloc.com/get/2.7.0/radare2-2.7.0.pkg)
 
 You can also build it by yourself. Check [build instructions] for different platforms.
 
