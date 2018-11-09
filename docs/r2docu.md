@@ -32,7 +32,7 @@ There also exist precompiled binaries for OS X and Windows.
 
 - OS X download: [here](http://radare.mikelloc.com/get/2.7.0/radare2-2.7.0.pkg)
 
-You can also build it by yourself. Check [build instructions] for different platforms.
+You can also build it by yourself. Check [build instructions](r2docu/Building.md) for different platforms.
 
 
 ## Quick start
