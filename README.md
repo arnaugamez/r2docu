@@ -1,3 +1,6 @@
+## Update: current status
+Please note that r2docu is on hold until new radare2 website is ready. There is no deadline, though, so expect it to be quite quiet in the near-mid future. When new website is available, should consider if/how r2docu could fit on it.
+
 # r2docu | Building a proper r2 beginner's documentation
 
 The idea behind r2docu is to make radare2 as easily accessible as possible for beginners.
