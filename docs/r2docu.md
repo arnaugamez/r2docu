@@ -24,10 +24,8 @@ $ git clone https://github.com/radare/radare2
 $ cd radare2
 $ ./sys/install.sh # Run this to automatically pull and update
 ```
-There also exist precompiled binaries for OS X and Windows.
-Windows download: [here]
-OS X download: [here]
-
+Precompiled binaries exist for OS X, Windows, iOS and Android,
+available [here](https://www.radare.org/r/down.html).
 You can also build it by yourself. Check [build instructions] for different platforms.
 
 
