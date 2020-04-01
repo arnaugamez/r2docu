@@ -1,5 +1,7 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
+
 ## Update: current status
-Please note that r2docu is on hold until new radare2 website is ready. There is no deadline, though, so expect it to be quite quiet in the near-mid future. When new website is available, should consider if/how r2docu could fit on it.
+Project is on hold. Should discuss if it can fit with new website being pushed and if it makes sense to have it separeted or try to focus on intro of official r2book which attracts way more readers. Don't expect updates anytime soon here, thus it is going to be archived.
 
 # r2docu | Building a proper r2 beginner's documentation
 
@@ -12,7 +14,3 @@ Any ideas, suggestions or comments to help improve r2docu as well as typos' corr
 ## More
 ### r2docu presentation talk
 You might want to check out the [slides](https://github.com/arnaugamez/r2con2018-Introducing_r2_for_humans) and [video recording](https://youtu.be/ARH1S8ygDnk) of the r2con2018 where I presented this idea.
-
-### Contact
-- Twitter: [@arnaugamez](https://twitter.com/arnaugamez)
-- Mail: arnaugamez AT pm DOT me
